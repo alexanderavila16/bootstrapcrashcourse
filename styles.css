@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* aplicamos los estilos a contendor mayor un bacckground */
+
+/* .container { 
+    background-color: #ccc;
+
+} */
+body{
+    padding-top:  3rem;
+}
+
+/* aplicamos estilos a todas las columnas llamadas col */
+/* 
+[class*="col"] {
+    background-color: lightblue;
+    border: 1px solid #777;
+    padding: 1rem 0;
+}  */
